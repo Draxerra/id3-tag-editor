@@ -54,7 +54,7 @@
     "postcss-loader": "3.0.0",
     "pug-plain-loader": "1.0.0",
     "source-map-support": "0.5.8",
-    "spectron": "3.8.0",
+    "spectron": "19.0.0",
     "style-loader": "0.22.1",
     "stylus-loader": "3.0.2",
     "ts-jest": "23.1.3",
